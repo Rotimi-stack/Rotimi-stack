@@ -3,6 +3,7 @@
 <h1 align="center">Hi 👋, I'm Victor Arowolo</h1>
 <h3 align="center">A passionate fullstack developer from Nigeria</h3>
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1kHEgewyUp-ttr19nwwZ7nUUfCEwfYsJE3w&s"
+<iframe src="https://giphy.com/embed/M9kgjEsLG6LMbYC9dl" width="480" height="360" align="right" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/M9kgjEsLG6LMbYC9dl">via GIPHY</a></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rotimi-stack&label=Profile%20views&color=0e75b6&style=flat" alt="rotimi-stack" /> </p>
 
