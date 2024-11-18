@@ -36,3 +36,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rotimi-stack&show_icons=true&locale=en" alt="rotimi-stack" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rotimi-stack&" alt="rotimi-stack" /></p>
+
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=victor_arowolo&range=last_30_days&theme=radical)](https://wakatime.com/badge/user/199a6c32-cea1-4567-ad15-8f7e1c3d552d.svg)
+
+[![wakatime](https://wakatime.com/badge/user/199a6c32-cea1-4567-ad15-8f7e1c3d552d.svg)](https://wakatime.com/@199a6c32-cea1-4567-ad15-8f7e1c3d552d)
+
