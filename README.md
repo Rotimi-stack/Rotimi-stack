@@ -2,8 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Victor Arowolo</h1>
 <h3 align="center">A passionate fullstack developer from Nigeria</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<br><br>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rotimi-stack&label=Profile%20views&color=0e75b6&style=flat" alt="rotimi-stack" /> </p>
 
