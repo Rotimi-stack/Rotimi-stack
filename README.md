@@ -39,5 +39,5 @@
 
 [![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=victor_arowolo&range=last_30_days&theme=radical)](https://wakatime.com/badge/user/199a6c32-cea1-4567-ad15-8f7e1c3d552d.svg)
 
-[![wakatime](https://wakatime.com/badge/user/199a6c32-cea1-4567-ad15-8f7e1c3d552d.svg?style=plastic)](https://wakatime.com/@199a6c32-cea1-4567-ad15-8f7e1c3d552d)
+[![wakatime](https://wakatime.com/badge/user/199a6c32-cea1-4567-ad15-8f7e1c3d552d.svg?style=social)](https://wakatime.com/@199a6c32-cea1-4567-ad15-8f7e1c3d552d)
 
