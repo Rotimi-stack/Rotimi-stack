@@ -16,7 +16,7 @@
 
 - 👯 I’m looking to collaborate on **Telemedicine Apllication, Agritech Apps, Desktop App**
 
-- 👨‍💻 All of my projects are available at [singular-maamoul-b4c210](singular-maamoul-b4c210)
+- 👨‍💻 All of my projects are available at https://victor-portfolio-site07.netlify.app/
 
 - 💬 Ask me about **C#, .Net Javascript**
 
